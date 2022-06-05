@@ -2,9 +2,9 @@
 
 This repository contains four applications, which are for my personal use:
 
-1) API Earnings Calendar - Download upcomming earnings releases for the stocks in your portfolio
-2) API Earnings Surprise - Download data for research on abnormal returns around earnings announcement
-3) API News - Download news for the stocks in your portfolio
-4) API Ratios_Growth_Return Analysis - Evaluate performance on t+1 year after t year a)financial performance, b)index performance, 3)stock performance
+1) MAIN_EU - Code for the analysis of the Europe sample (contains remarks)
+2) MAIN_US - Code for the analysis of the US sample
+3) Data - Contains .csv files with data used
+4) API Stock Screener - Stock Screener for stocks used in analysis
 
 Code use requires API key from the FMP (https://site.financialmodelingprep.com/developer/docs)
